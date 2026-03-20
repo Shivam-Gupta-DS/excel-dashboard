@@ -62,5 +62,5 @@ Welcome to my portfolio of Excel-based data analysis projects! This repository c
 
 ## 📫 Contact & Connections
 Feel free to reach out if you have any questions or want to discuss data analysis!
-*   **LinkedIn:** [Your LinkedIn Profile URL]
-*   **Email:** [Your Email Address]
+*   **LinkedIn:** (https://www.linkedin.com/in/shivam-gupta-dsci/)
+*   **Email:** (shivamgupta77399@gmail.com)
